@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.sol": "solidity",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
